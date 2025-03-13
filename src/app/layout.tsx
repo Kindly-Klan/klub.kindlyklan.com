@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Próximamente",
-  description: "Próximamente",
+  title: "Kindly Klan Klub",
+  description: "Tu network de confianza.",
 };
 
 export default function RootLayout({
